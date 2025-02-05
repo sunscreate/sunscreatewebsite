@@ -1,0 +1,13 @@
+{
+  "redirects": [
+    {
+      "source": "www.sunscreate.fun",
+      "destination": "https://sunscreate.fun",
+      "permanent": true
+    }
+  ],
+  "env": {
+    "NEXT_PUBLIC_APP_URL": "https://sunscreate.fun"
+  }
+}
+
